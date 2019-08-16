@@ -12,4 +12,8 @@ export class NavComponent implements OnInit {
   ngOnInit() {
   }
 
+  profile() {
+    const profileSelected = true;
+  }
+
 }
